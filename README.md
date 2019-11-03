@@ -1,7 +1,4 @@
-# People10-Project
-devops code challenge 
-
-# devops-code-challenge-2016
+# People10 DevOps Code Challenge
 
 ## Introduction
 
